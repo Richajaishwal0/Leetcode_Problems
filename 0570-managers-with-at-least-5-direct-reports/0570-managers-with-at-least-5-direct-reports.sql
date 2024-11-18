@@ -1,0 +1,1 @@
+select name from employee e1 where exists (select managerId from employee e2 where e1.id=e2.managerId having count(e2.managerID)>=5); 
