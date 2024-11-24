@@ -46,6 +46,7 @@
 | [0066-plus-one](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,10 +64,12 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
