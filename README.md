@@ -64,11 +64,13 @@
 | ------- |
 | [0066-plus-one](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -87,6 +89,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0268-missing-number) |
