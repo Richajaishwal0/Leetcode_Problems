@@ -64,6 +64,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0202-happy-number) |
@@ -131,4 +132,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
