@@ -42,6 +42,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0066-plus-one) |
@@ -73,6 +74,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0344-reverse-string) |
@@ -138,4 +140,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0050-powx-n) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
