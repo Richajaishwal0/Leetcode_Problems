@@ -117,6 +117,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -149,4 +150,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
