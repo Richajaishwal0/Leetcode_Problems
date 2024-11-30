@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0053-maximum-subarray) |
@@ -60,6 +61,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0268-missing-number) |
