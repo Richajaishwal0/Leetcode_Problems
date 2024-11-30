@@ -60,6 +60,7 @@
 | [0268-missing-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Binary Search
 |  |
@@ -80,6 +81,7 @@
 | [0069-sqrtx](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
 | ------- |
