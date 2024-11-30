@@ -80,6 +80,7 @@
 | [0066-plus-one](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
@@ -171,4 +172,12 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
