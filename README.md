@@ -61,6 +61,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1603-running-sum-of-1d-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1646-kth-missing-positive-number) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2232-adding-spaces-to-a-string](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/2232-adding-spaces-to-a-string) |
@@ -172,6 +173,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
+| [1603-running-sum-of-1d-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1603-running-sum-of-1d-array) |
 ## Stack
 |  |
 | ------- |
