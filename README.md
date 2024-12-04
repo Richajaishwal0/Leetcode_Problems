@@ -61,6 +61,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0682-baseball-game) |
 | [1603-running-sum-of-1d-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1646-kth-missing-positive-number) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -178,11 +179,13 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0682-baseball-game) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0682-baseball-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/2232-adding-spaces-to-a-string) |
 ## Number Theory
 |  |
