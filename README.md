@@ -42,6 +42,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0035-search-insert-position) |
@@ -123,6 +124,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0202-happy-number) |
