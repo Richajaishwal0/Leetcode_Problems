@@ -73,6 +73,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2232-adding-spaces-to-a-string](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2836-neither-minimum-nor-maximum](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/2836-neither-minimum-nor-maximum) |
 ## Binary Search
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [0941-sort-array-by-parity](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0958-sort-array-by-parity-ii) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2836-neither-minimum-nor-maximum](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/2836-neither-minimum-nor-maximum) |
 ## Hash Table
 |  |
 | ------- |
