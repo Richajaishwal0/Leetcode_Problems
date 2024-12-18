@@ -69,6 +69,7 @@
 | [0941-sort-array-by-parity](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1603-running-sum-of-1d-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1646-kth-missing-positive-number) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -206,6 +207,7 @@
 | [0020-valid-parentheses](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0682-baseball-game) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Simulation
 |  |
 | ------- |
@@ -216,4 +218,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0258-add-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
