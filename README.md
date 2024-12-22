@@ -49,6 +49,7 @@
 | [0049-group-anagrams](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -110,6 +111,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0344-reverse-string) |
@@ -123,6 +125,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0217-contains-duplicate) |
