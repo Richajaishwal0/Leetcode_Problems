@@ -79,6 +79,7 @@
 | [1646-kth-missing-positive-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1646-kth-missing-positive-number) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2232-adding-spaces-to-a-string](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/2232-adding-spaces-to-a-string) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/2836-neither-minimum-nor-maximum) |
 ## Binary Search
@@ -194,6 +195,7 @@
 | [0260-single-number-iii](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0389-find-the-difference) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Queue
 |  |
 | ------- |
@@ -251,4 +253,8 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0908-middle-of-the-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
