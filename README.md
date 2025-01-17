@@ -62,6 +62,7 @@
 | [0238-product-of-array-except-self](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0414-third-maximum-number) |
@@ -91,6 +92,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -117,6 +119,7 @@
 | [0141-linked-list-cycle](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -194,6 +197,7 @@
 | [0137-single-number-ii](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0389-find-the-difference) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Queue
