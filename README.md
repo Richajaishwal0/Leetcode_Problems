@@ -111,6 +111,7 @@
 | [0258-add-digits](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1013-fibonacci-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -214,10 +215,12 @@
 | [0053-maximum-subarray](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
+| [1013-fibonacci-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -296,4 +299,8 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0404-sum-of-left-leaves) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
