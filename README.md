@@ -75,6 +75,7 @@
 | [0941-sort-array-by-parity](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1319-unique-number-of-occurrences](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1603-running-sum-of-1d-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1635-number-of-good-pairs) |
@@ -172,6 +173,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0389-find-the-difference) |
+| [1319-unique-number-of-occurrences](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1635-number-of-good-pairs](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1848-sum-of-unique-elements) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
