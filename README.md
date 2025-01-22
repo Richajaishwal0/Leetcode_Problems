@@ -79,6 +79,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1646-kth-missing-positive-number) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1848-sum-of-unique-elements](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1848-sum-of-unique-elements) |
 | [2232-adding-spaces-to-a-string](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -169,6 +170,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0389-find-the-difference) |
+| [1848-sum-of-unique-elements](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1848-sum-of-unique-elements) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Divide and Conquer
 |  |
@@ -180,6 +182,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1848-sum-of-unique-elements](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1848-sum-of-unique-elements) |
 ## String
 |  |
 | ------- |
