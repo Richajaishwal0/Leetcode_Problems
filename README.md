@@ -58,6 +58,7 @@
 | [0152-maximum-product-subarray](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0260-single-number-iii) |
@@ -110,6 +111,7 @@
 | [0050-powx-n](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0268-missing-number) |
@@ -126,6 +128,7 @@
 | [0125-valid-palindrome](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0344-reverse-string) |
