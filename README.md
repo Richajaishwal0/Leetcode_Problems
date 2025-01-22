@@ -77,6 +77,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1603-running-sum-of-1d-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1646-kth-missing-positive-number) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1848-sum-of-unique-elements](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1848-sum-of-unique-elements) |
@@ -113,6 +114,7 @@
 | [0268-missing-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1013-fibonacci-number) |
+| [1635-number-of-good-pairs](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -170,6 +172,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0389-find-the-difference) |
+| [1635-number-of-good-pairs](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1848-sum-of-unique-elements) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Divide and Conquer
@@ -182,6 +185,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1635-number-of-good-pairs](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1848-sum-of-unique-elements) |
 ## String
 |  |
