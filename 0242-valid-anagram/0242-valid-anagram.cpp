@@ -1,16 +1,20 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        bool isana;
-        sort(s.begin(),s.end());
-        sort(t.begin(),t.end());
-        if (s==t)
+        unordered_map<int,int> char_count;
+        if (s.size()!=t.size()) return false;
+        for (int i=0;i<s.size();i++)
         {
-            isana=true;
+            char_count[s[i]]++;
+            char_count[t[i]]--;
         }
-        else{
-            isana=false;
+        for (auto &it: char_count)
+        {
+            if (it.second!=0)
+            {
+                return false;
+            }
         }
-        return isana;
+        return true;
     }
 };
