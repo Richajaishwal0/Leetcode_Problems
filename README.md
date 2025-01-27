@@ -76,6 +76,7 @@
 | [0682-baseball-game](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0682-baseball-game) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
+| [0792-binary-search](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0958-sort-array-by-parity-ii) |
@@ -105,6 +106,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0792-binary-search](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1646-kth-missing-positive-number) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
