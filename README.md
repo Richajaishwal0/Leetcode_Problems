@@ -47,6 +47,7 @@
 | [0015-3sum](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0066-plus-one) |
@@ -115,6 +116,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0069-sqrtx) |
@@ -334,4 +336,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
