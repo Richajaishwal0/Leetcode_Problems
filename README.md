@@ -124,6 +124,7 @@
 | [0202-happy-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1635-number-of-good-pairs) |
@@ -248,6 +249,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
