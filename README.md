@@ -89,6 +89,7 @@
 | [1646-kth-missing-positive-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1646-kth-missing-positive-number) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1848-sum-of-unique-elements](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1848-sum-of-unique-elements) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2232-adding-spaces-to-a-string](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -110,6 +111,7 @@
 | [0792-binary-search](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1646-kth-missing-positive-number) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Math
 |  |
@@ -173,6 +175,7 @@
 | [0941-sort-array-by-parity](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/2836-neither-minimum-nor-maximum) |
 ## Hash Table
@@ -257,12 +260,14 @@
 | [0011-container-with-most-water](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1603-running-sum-of-1d-array) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Stack
 |  |
 | ------- |
@@ -342,4 +347,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0048-rotate-image) |
+## Sliding Window
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
