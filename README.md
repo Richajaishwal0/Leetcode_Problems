@@ -67,6 +67,7 @@
 | [0238-product-of-array-except-self](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -143,6 +144,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
