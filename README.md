@@ -72,6 +72,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -197,6 +198,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1635-number-of-good-pairs](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1848-sum-of-unique-elements) |
