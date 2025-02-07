@@ -97,6 +97,7 @@
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/2836-neither-minimum-nor-maximum) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Binary Search
 |  |
 | ------- |
@@ -204,6 +205,7 @@
 | [1635-number-of-good-pairs](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1848-sum-of-unique-elements) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -293,6 +295,7 @@
 | [0682-baseball-game](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0682-baseball-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Number Theory
 |  |
 | ------- |
