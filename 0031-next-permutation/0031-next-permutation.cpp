@@ -2,11 +2,11 @@ class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
         if (nums.size()==1) return ;
-        if (nums.size()==2)
-        {
-            swap(nums[0],nums[1]);
-            return;
-        }
+        // if (nums.size()==2)
+        // {
+        //     swap(nums[0],nums[1]);
+        //     return;
+        // }
         int ind=-1;
         for (int i=nums.size()-2;i>=0;i--)
         {
