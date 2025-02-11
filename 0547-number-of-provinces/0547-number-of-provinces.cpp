@@ -12,6 +12,7 @@ public:
                 ans++;
                  queue<int>q;
                  q.push(i);
+                 visited[i]=1;
                  while (!q.empty())
                  {
                     int curr=q.front();
