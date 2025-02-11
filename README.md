@@ -338,6 +338,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -351,6 +352,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0547-number-of-provinces) |
 ## Memoization
 |  |
 | ------- |
@@ -359,6 +361,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
 | ------- |
@@ -367,4 +370,8 @@
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
