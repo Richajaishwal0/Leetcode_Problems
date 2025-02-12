@@ -51,6 +51,7 @@
 | [0048-rotate-image](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0075-sort-colors) |
@@ -299,6 +300,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0682-baseball-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/2232-adding-spaces-to-a-string) |
@@ -370,6 +372,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
 ## Sliding Window
 |  |
