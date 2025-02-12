@@ -52,6 +52,7 @@
 | [0049-group-anagrams](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
@@ -192,6 +193,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0169-majority-element) |
@@ -368,6 +370,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
 ## Sliding Window
 |  |
 | ------- |
