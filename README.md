@@ -78,6 +78,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0682-baseball-game) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0779-max-chunks-to-make-sorted-ii) |
@@ -208,6 +209,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1319-unique-number-of-occurrences](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1635-number-of-good-pairs](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1848-sum-of-unique-elements) |
@@ -283,6 +285,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Stack
