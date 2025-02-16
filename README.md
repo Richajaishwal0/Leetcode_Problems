@@ -273,6 +273,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1013-fibonacci-number) |
 ## Greedy
@@ -327,6 +328,7 @@
 | [0002-add-two-numbers](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0908-middle-of-the-linked-list) |
 ## Brainteaser
 |  |
