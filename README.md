@@ -143,6 +143,7 @@
 | [1013-fibonacci-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1635-number-of-good-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/2448-count-number-of-bad-pairs) |
+| [2649-count-total-number-of-colored-cells](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/2649-count-total-number-of-colored-cells) |
 ## Two Pointers
 |  |
 | ------- |
