@@ -1,15 +1,14 @@
 class Solution {
 public:
     int fib(int n) {
-        if (n==1 || n==2)
+        if (n<=1) return n;
+        vector <int> arr(n+1,0);
+        arr[0]=0;
+        arr[1]=1;
+        for (int i=2;i<=n;i++)
         {
-            return 1;
+            arr[i]=arr[i-1]+arr[i-2];
         }
-        if (n==0)
-        {
-            return 0;
-        }
-        int ans=fib(n-2)+fib(n-1);
-        return ans;
+        return arr[n];
     }
 };
