@@ -1,31 +1,28 @@
 class Solution {
 public:
     bool isHappy(int n) {
-        int sum=0;
-        bool ishappy;
-        unordered_set <int> seen;
-        do
-        {  
-            sum=0;
-            while (n>0)
-            {
-                int rem=n%10;
-                sum+=rem*rem;
-                n=n/10;
-            }
-             n=sum;
-
-        if(seen.count(n)) //returns 1 if n is already in the set.
+     unordered_set <int> seen;
+     int rem;
+     long sum=0;
+     while (sum!=1)
+     {
+        sum=0;
+        while (n>0)
         {
-            ishappy=false;
-            break;
-        }
-        else  {
-            seen.insert(n);
-            ishappy=true;
-        }
-        }while(!(sum==1 ));
 
-        return ishappy;
+            rem=n%10;
+            sum+=rem*rem;
+            n=n/10;
+        }
+        n=sum;
+        if (seen.count(sum))
+        {
+            return false;
+        }
+        else{
+            seen.insert(sum);
+        }
+     }
+     return true;
     }
 };
