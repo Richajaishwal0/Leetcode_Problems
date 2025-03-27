@@ -3,7 +3,7 @@ public:
     bool isHappy(int n) {
      unordered_set <int> seen;
      int rem;
-     long sum=0;
+     int sum=0;
      while (sum!=1)
      {
         sum=0;
