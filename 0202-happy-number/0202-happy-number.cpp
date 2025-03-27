@@ -2,7 +2,6 @@ class Solution {
 public:
     bool isHappy(int n) {
      unordered_set <int> seen;
-     int rem;
      int sum=0;
      while (sum!=1)
      {
@@ -10,7 +9,7 @@ public:
         while (n>0)
         {
 
-            rem=n%10;
+            int rem=n%10;
             sum+=rem*rem;
             n=n/10;
         }
