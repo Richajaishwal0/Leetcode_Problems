@@ -1,52 +1,39 @@
 class Solution {
 public:
     bool isValid(string s) {
-        string a=s;
-        stack <char > stack;
-        int n=s.size();
+        stack <char> st;
         char ch;
-        bool isv;
-        if (n%2!=0) return false;
-        for (int i=0;i<n;i++)
+        if (s[0]==')') return false;
+        if (s.size()%2!=0) return false;
+        for (int i=0;i<s.size();i++)
         {
-            if (a[i]=='('|| a[i]=='{' || a[i]=='[')
+            if (s[i]=='(' || s[i]=='{' || s[i]=='[')
             {
-                stack.push(a[i]);
+                st.push(s[i]);
             }
-            else{
-                if(!stack.empty())
-                {   ch=stack.top();
-                    stack.pop(); 
-                    if (a[i]==')' && ch=='(')
-                    {
-                        isv=true;
-                    }
-                    else if (a[i]=='}' && ch=='{')
-                    {
-                        isv=true;
-                    }
-                    else if (a[i]==']' && ch=='[')
-                    {
-                        isv=true;
-                    }
-                     else
+            else 
+            {    if (!st.empty())
                 {
-                    isv=false;
-                    break;    
-                }
-                    
-                }
-                else
-                {
-                    isv=false;
-                    break;    
-                }
+                        ch=st.top();
+                        if ((ch=='(' && s[i]==')') || (ch=='{' && s[i]=='}') || (ch=='[' && s[i]==']'))
+                        {
+                            st.pop();
+                        }
+                        else 
+                        {
+                            return false;
+                        }
+
+                    }
+                else{
+                    return false;
+                    }
             }
         }
-        if(!stack.empty())
+        if (st.empty())
         {
-            isv=false;
+            return true;
         }
-        return isv;
-    }
+        return false;
+        }
 };
