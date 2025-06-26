@@ -136,6 +136,7 @@
 | [0050-powx-n](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0258-add-digits) |
@@ -274,6 +275,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
@@ -380,6 +382,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Richajaishwal0/Leetcode_Problems/tree/master/1013-fibonacci-number) |
 ## Union Find
 |  |
