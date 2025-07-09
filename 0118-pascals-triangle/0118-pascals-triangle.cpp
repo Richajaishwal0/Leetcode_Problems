@@ -1,23 +1,21 @@
 class Solution {
 public:
-   vector<int> nCr(int row ){
-    long long res = 1; 
-    vector<int> ansr;
-      ansr.push_back(1);
-    // calculating nCr:
-    for (int col = 1; col< row; col++) {
-        res = res * (row - col);
-        res = res /col;
-        ansr.push_back(res);
-    }   
-    return ansr;
-   }
     vector<vector<int>> generate(int numRows) {
-        int n=numRows;
-        vector<vector<int>> ans;
-        for (int c=1;c<=n;c++)
-        {   vector<int> vec=nCr(c);
-            ans.push_back(vec);
+          long long res=1;
+        vector <vector <int>> ans;
+        for (int i=1;i<=numRows;i++)
+        {
+            vector <int> temp;
+            temp.push_back(1);
+            for (int j=1;j<i;j++)
+            {
+                res=res*(i-j)/(j);
+                temp.push_back(res);
+            }
+            
+            ans.push_back(temp);
+            
+    
         }
         return ans;
     }
