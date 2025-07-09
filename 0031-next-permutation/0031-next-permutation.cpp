@@ -18,15 +18,20 @@ public:
 
         }
         else{
+            int min_=INT_MAX;
+            int min_ind;
             for (int i=n-1;i>ind;i--)
             {
-                if (nums[i]>nums[ind])
+                if (nums[i]>nums[ind] && nums[i]<min_)
                 {
-                    swap(nums[i],nums[ind]);
-                    break;
+                    min_=min(min_,nums[i]);
+                    min_ind=i;
+                    // swap(nums[i],nums[ind]);
+                    // break;
                     
                 }
             }
+            swap(nums[ind],nums[min_ind]);
 
         }
         reverse(nums.begin()+ind+1,nums.end());
